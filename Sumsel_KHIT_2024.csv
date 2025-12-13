@@ -2448,7 +2448,7 @@ EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KOPI BIJI;'09011130;2;kilogram;300000;PT. Tengkiling Hulu Lematang
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011200;85500;kilogram;300000000;CV. COCONUT VIERRA
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011990;171000;kilogram;600000000;CV. COCONUT VIERRA
-EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011200;255000;kilogram;7,5E+11;PT. SURYA INDO COCOS
+EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011200;255000;kilogram;7,50E+11;PT. SURYA INDO COCOS
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011200;99600;kilogram;700000000;CV. PUTRA SRIWIJAYA PERKASA
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KARET LEMPENGAN;'0000;100800;kilogram;3528000000;PT. REMCO RUBBER INDONESIA
 EX;T;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA BULAT;'08011200;82650;kilogram;300000000;CV. PUTRA SRIWIJAYA PERKASA
@@ -3038,113 +3038,113 @@ EX;H;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Sarang Burung Wa
 EX;H;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Sarang Burung Walet;4109010;5;kilogram;97277500;CV DELUXE GROUP INDUSTRIES
 EX;H;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Madu;23099011;535;kilogram;65000000;SUSWANTO
 EX;H;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Madu;'04090000;298;kilogram;37500000;PT. ISTANA MADU SERASAN SEKUNDANG
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;100;kilogram;6000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17100;kilogram;2599507800;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;19000;ekor;25650000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17382;kilogram;2586458982;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;160;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;75;kilogram;4500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;100;kilogram;6000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;25;kilogram;1500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17376;kilogram;2684088096;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;14000;ekor;18900000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;225;ekor;28800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;15660;kilogram;2754687960;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;20000;ekor;27000000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tali-tali;03011199;10000;ekor;10800000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;200;ekor;24000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;9000;ekor;12150000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;50;ekor;54000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;21000;ekor;28350000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17076;kilogram;2537408220;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;18000;ekor;24300000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;18940;kilogram;2486329560;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17244;kilogram;2481066720;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;16848;kilogram;2690996256;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;120;ekor;24000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17100;kilogram;2599507800;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;15960;kilogram;2887211880;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;1908479070;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;440;ekor;52800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;6850;ekor;9247500;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;75;kilogram;4500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;3000;ekor;3240000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17376;kilogram;2684088096;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;32000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;400;ekor;52800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;320;ekor;40000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;10000;ekor;10800000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;19000;ekor;25650000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;225;ekor;28800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;200;ekor;27200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;21000;ekor;28350000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;18950;ekor;25582500;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;150;ekor;162000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;225;ekor;28800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;18000;ekor;24300000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;33600000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;96;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;9900;ekor;13365000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;100;ekor;108000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;03011199;300;ekor;324000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;2067101100;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;100;ekor;12800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;11000;ekor;14850000;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;100;ekor;12800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;375;ekor;48000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;175;ekor;22400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;50;kilogram;3000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;175;kilogram;10500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;300;ekor;38400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tiger Fish;03011199;12;ekor;16200;CV DELIMA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;15043,2;kilogram;2620013971;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;125;ekor;16000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;2104340580;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17292;kilogram;2531445048;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17256;kilogram;2528435400;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;175;ekor;22400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;03011110;9500;ekor;12825000;NULL
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;2057569830;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;225;ekor;28800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;275;ekor;35200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;300;ekor;38400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;33600000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;1966109490;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;16800;kilogram;2934674400;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17256;kilogram;2647294728;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;300;ekor;38400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;300;ekor;38400000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;200;ekor;25600000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;200;ekor;24000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;75;kilogram;4500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;11070;kilogram;1891641600;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;250;ekor;36800000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;75;kilogram;4500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;125;kilogram;7500000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17232;kilogram;2501397120;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;16800;kilogram;2951743200;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;6720;kilogram;797401920;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;16980;kilogram;2505314100;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;50;kilogram;3000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061790;11070;kilogram;2398293360;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;200;ekor;24000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03038929;50;kilogram;3000000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;03019949;150;ekor;19200000;CV. FAUNA TIRTA
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;02089010;17028;kilogram;2541531168;PT. Agung Jayasari Sakti
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;03061711;15660;kilogram;2779587360;PT. LESTARI MAGRIS
-EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;02089010;16800;kilogram;2900049600;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;100;kilogram;6000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17100;kilogram;2599507800;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;19000;ekor;25650000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17382;kilogram;2586458982;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;160;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;75;kilogram;4500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;100;kilogram;6000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;25;kilogram;1500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17376;kilogram;2684088096;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;14000;ekor;18900000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;225;ekor;28800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;15660;kilogram;2754687960;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;20000;ekor;27000000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tali-tali;3011199;10000;ekor;10800000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;200;ekor;24000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;9000;ekor;12150000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;50;ekor;54000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;21000;ekor;28350000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17076;kilogram;2537408220;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;18000;ekor;24300000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;18940;kilogram;2486329560;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17244;kilogram;2481066720;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;16848;kilogram;2690996256;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;120;ekor;24000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17100;kilogram;2599507800;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;15960;kilogram;2887211880;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;1908479070;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;440;ekor;52800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;6850;ekor;9247500;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;75;kilogram;4500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;3000;ekor;3240000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17376;kilogram;2684088096;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;32000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;400;ekor;52800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;320;ekor;40000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;10000;ekor;10800000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;19000;ekor;25650000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;225;ekor;28800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;200;ekor;27200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;21000;ekor;28350000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;18950;ekor;25582500;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;150;ekor;162000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;225;ekor;28800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;18000;ekor;24300000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;33600000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;96;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;9900;ekor;13365000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;100;ekor;108000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tilan;3011199;300;ekor;324000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;2067101100;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;100;ekor;12800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;11000;ekor;14850000;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;100;ekor;12800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;375;ekor;48000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;175;ekor;22400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;50;kilogram;3000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;175;kilogram;10500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;300;ekor;38400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Tiger Fish;3011199;12;ekor;16200;CV DELIMA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;15043,2;kilogram;2620013971;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;125;ekor;16000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;2104340580;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17292;kilogram;2531445048;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17256;kilogram;2528435400;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;175;ekor;22400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;3011110;9500;ekor;12825000;NULL
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;2057569830;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;225;ekor;28800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;275;ekor;35200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;300;ekor;38400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;33600000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;1966109490;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;16800;kilogram;2934674400;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17256;kilogram;2647294728;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;300;ekor;38400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;300;ekor;38400000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;200;ekor;25600000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;200;ekor;24000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;75;kilogram;4500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;11070;kilogram;1891641600;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;250;ekor;36800000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;75;kilogram;4500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;125;kilogram;7500000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17232;kilogram;2501397120;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;16800;kilogram;2951743200;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;6720;kilogram;797401920;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;16980;kilogram;2505314100;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;50;kilogram;3000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061790;11070;kilogram;2398293360;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;200;ekor;24000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3038929;50;kilogram;3000000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;3019949;150;ekor;19200000;CV. FAUNA TIRTA
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Kodok;2089010;17028;kilogram;2541531168;PT. Agung Jayasari Sakti
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang;3061711;15660;kilogram;2779587360;PT. LESTARI MAGRIS
+EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kodok;2089010;16800;kilogram;2900049600;PT. LESTARI MAGRIS
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;'03019949;150;ekor;19200000;CV. FAUNA TIRTA
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;'03019949;250;ekor;33600000;CV. FAUNA TIRTA
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Botia;'03011110;3000;ekor;4050000;CV. DELIMA
@@ -3162,3 +3162,20 @@ EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;'03019949
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Betutu;'03019949;200;ekor;24000000;CV. FAUNA TIRTA
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Katak;'02089010;17316;kilogram;2299975942;PT. AGUNG JAYASARI SAKTI
 EX;I;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Daging Katak;'02089010;1;peti kemas;3013710960;PT. LESTARI MAGRIS
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Induk Udang Windu;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang Putih;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KAYU LAPIS;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Udang Windu;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KOLANG-KALING;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Ikan Botia;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Arwana Brazil;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;GULA MERAH;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KOPI BUBUK;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;BONSAI;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Ikan Betutu;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;Kerang Dara;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;NIPAH;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;AMPAS KULIT NANAS;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;NONE;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA SERABUT;;;;0;
+EX;;Balai Karantina Hewan, Ikan, dan Tumbuhan Sumatera Selatan;KELAPA PARUT;;;;0;
