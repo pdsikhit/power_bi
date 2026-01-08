@@ -205,7 +205,7 @@ H;Reptil Besar yang termasuk Satwa Liar Lainnya;ekor;1;Reptil Besar yang termasu
 H;Reptil Kecil yang termasuk Satwa Liar Lainnya;ekor;1;Reptil Kecil yang termasuk Satwa Liar Lainnya/ekor
 H;Sapi;ekor;19000000;Sapi/ekor
 H;Sapi;kilogram;190000;Sapi/kilogram
-H;Sarang Burung Walet;kilogram;20000000;Sarang Burung Walet/kilogram
+H;Sarang Burung Walet;kilogram;9000000;Sarang Burung Walet/kilogram
 H;Sarang Burung Walet;gram;200000;Sarang Burung Walet/gram
 H;Semen Beku;kemasan;30000;Semen Beku/kemasan
 H;Semen Beku;kilogram;15000;Semen Beku/kilogram
@@ -433,13 +433,13 @@ I;Chitin;ekor;8660;Chitin/ekor
 I;Chromis fish;kilogram;230000;Chromis fish/kilogram
 I;Chromis fish;ekor;5000;Chromis fish/ekor
 I;Cichlid;kilogram;200000;Cichlid/kilogram
-I;Cichlid;ekor;100000;Cichlid/ekor
+I;Cichlid;ekor;20000;Cichlid/ekor
 I;Cichlid geophagus;ekor;400000;Cichlid geophagus/ekor
 I;Clown Fish;ekor;44436;Clown Fish/ekor
 I;Coral;ekor;399494;Coral/ekor
 I;Coral;kilogram;40485;Coral/kilogram
 I;Corydoras;ekor;9446;Corydoras/ekor
-I;Cumi-Cumi;kilogram;150000;Cumi-Cumi/kilogram
+I;Cumi-Cumi;kilogram;40000;Cumi-Cumi/kilogram
 I;Cumi-Cumi;gram;150;Cumi-Cumi/gram
 I;Cupang;ekor;40068;Cupang/ekor
 I;Cupang;kilogram;10000;Cupang/kilogram
@@ -531,7 +531,7 @@ I;Ikan Bandeng;ekor;20000;Ikan Bandeng/ekor
 I;Ikan Bandeng;gram;5000;Ikan Bandeng/gram
 I;Ikan Baronang;ekor;32977;Ikan Baronang/ekor
 I;Ikan Baronang;kilogram;25935;Ikan Baronang/kilogram
-I;Ikan Bawal;kilogram;123874;Ikan Bawal/kilogram
+I;Ikan Bawal;kilogram;50000;Ikan Bawal/kilogram
 I;Ikan Bawal;ekor;40000;Ikan Bawal/ekor
 I;Ikan Belanak;kilogram;546525;Ikan Belanak/kilogram
 I;Ikan Betutu;kilogram;95288;Ikan Betutu/kilogram
@@ -588,9 +588,9 @@ I;Ikan Gurami;ekor;50000;Ikan Gurami/ekor
 I;Ikan Hias;kilogram;38608;Ikan Hias/kilogram
 I;Ikan Hias;ekor;19875;Ikan Hias/ekor
 I;Ikan Hias Air Laut;kilogram;367034;Ikan Hias Air Laut/kilogram
-I;Ikan Hias Air Laut;ekor;43273;Ikan Hias Air Laut/ekor
+I;Ikan Hias Air Laut;ekor;6000;Ikan Hias Air Laut/ekor
 I;Ikan Hias Air Laut;gram;1;Ikan Hias Air Laut/gram
-I;Ikan Hias Air Tawar;ekor;714784;Ikan Hias Air Tawar/ekor
+I;Ikan Hias Air Tawar;ekor;8000;Ikan Hias Air Tawar/ekor
 I;Ikan Hias Air Tawar;kilogram;490646;Ikan Hias Air Tawar/kilogram
 I;Ikan Hias Air Tawar;gram;1;Ikan Hias Air Tawar/gram
 I;Ikan Hias laut;ekor;1;Ikan Hias laut/ekor
@@ -598,7 +598,7 @@ I;Ikan Hidup;ekor;13480;Ikan Hidup/ekor
 I;Ikan Hiu;ekor;8288;Ikan Hiu/ekor
 I;Ikan Jenggot;kilogram;194488;Ikan Jenggot/kilogram
 I;Ikan Jenggot;ekor;11883;Ikan Jenggot/ekor
-I;Ikan Kakap;kilogram;100000;Ikan Kakap/kilogram
+I;Ikan Kakap;kilogram;50000;Ikan Kakap/kilogram
 I;Ikan Kakap;ekor;6674;Ikan Kakap/ekor
 I;Ikan Kakap;gram;100;Ikan Kakap/gram
 I;Ikan Kakapan;ekor;70135;Ikan Kakapan/ekor
@@ -616,7 +616,7 @@ I;Ikan Kelinci;kilogram;22554;Ikan Kelinci/kilogram
 I;Ikan Kembung;kilogram;50000;Ikan Kembung/kilogram
 I;Ikan Kembung;gram;50;Ikan Kembung/gram
 I;Ikan Kerapu;ekor;200000;Ikan Kerapu/ekor
-I;Ikan Kerapu;kilogram;120000;Ikan Kerapu/kilogram
+I;Ikan Kerapu;kilogram;90000;Ikan Kerapu/kilogram
 I;Ikan Kerapu;gram;120;Ikan Kerapu/gram
 I;Ikan Kipas;kilogram;24000;Ikan Kipas/kilogram
 I;Ikan Kipas;ekor;7642;Ikan Kipas/ekor
@@ -717,7 +717,7 @@ I;Ikan Tambak Kuncir;kilogram;25000;Ikan Tambak Kuncir/kilogram
 I;Ikan Tang;ekor;77827;Ikan Tang/ekor
 I;Ikan Tapah;ekor;427923;Ikan Tapah/ekor
 I;Ikan Tapah;kilogram;62606;Ikan Tapah/kilogram
-I;Ikan Tenggiri;kilogram;369567;Ikan Tenggiri/kilogram
+I;Ikan Tenggiri;kilogram;90000;Ikan Tenggiri/kilogram
 I;Ikan Tenggiri;ekor;100000;Ikan Tenggiri/ekor
 I;Ikan Terbang/Torani;kilogram;71035;Ikan Terbang/Torani/kilogram
 I;Ikan Teri;kilogram;56000;Ikan Teri/kilogram
@@ -954,7 +954,7 @@ I;Ringau;ekor;125762;Ringau/ekor
 I;Ringau;kilogram;60000;Ringau/kilogram
 I;Roket;kilogram;30000;Roket/kilogram
 I;Roket;ekor;7665;Roket/ekor
-I;Rumput Laut;kilogram;125426;Rumput Laut/kilogram
+I;Rumput Laut;kilogram;70000;Rumput Laut/kilogram
 I;Rumput Laut;ekor;58132;Rumput Laut/ekor
 I;Rumput Laut;gram;125;Rumput Laut/gram
 I;Sable fish;ekor;200000;Sable fish/ekor
@@ -1031,7 +1031,7 @@ I;Tepung Ikan;ton;13000000;Tepung Ikan/ton
 I;Tepung Ikan;bulk;650000;Tepung Ikan/bulk
 I;Tepung Ikan;kilogram;13000;Tepung Ikan/kilogram
 I;Tepung Udang;kilogram;103714;Tepung Udang/kilogram
-I;Teripang;kilogram;1130092;Teripang/kilogram
+I;Teripang;kilogram;120000;Teripang/kilogram
 I;Teripang;ekor;15133;Teripang/ekor
 I;Tesselated Fusilier;ekor;58521;Tesselated Fusilier/ekor
 I;Tetra;kilogram;68514;Tetra/kilogram
@@ -1091,7 +1091,7 @@ I;Udang Pink;ekor;36941;Udang Pink/ekor
 I;Udang Putih;kilogram;80000;Udang Putih/kilogram
 I;Udang Putih;ekor;8000;Udang Putih/ekor
 I;Udang Shiba;kilogram;84001;Udang Shiba/kilogram
-I;Udang Vaname;kilogram;175000;Udang Vaname/kilogram
+I;Udang Vaname;kilogram;80000;Udang Vaname/kilogram
 I;Udang Vaname;ekor;3000;Udang Vaname/ekor
 I;Udang Vaname;gram;1750;Udang Vaname/gram
 I;Udang Windu;kilogram;200000;Udang Windu/kilogram
@@ -1999,7 +1999,7 @@ T;BUBUK JAHE;carton;1;BUBUK JAHE/carton
 T;BUBUK JAHE;gram;1;BUBUK JAHE/gram
 T;BUBUK JAHE;kilogram;94369;BUBUK JAHE/kilogram
 T;BUBUK JAHE;ton;94369000;BUBUK JAHE/ton
-T;BUBUK KUNYIT;kilogram;82980;BUBUK KUNYIT/kilogram
+T;BUBUK KUNYIT;kilogram;12000;BUBUK KUNYIT/kilogram
 T;BUBUK KUNYIT;box;50000;BUBUK KUNYIT/box
 T;BUBUK KUNYIT;gram;1;BUBUK KUNYIT/gram
 T;BUBUK KUNYIT;ton;82980000;BUBUK KUNYIT/ton
@@ -2630,7 +2630,7 @@ T;JENGKOL;box;100000;JENGKOL/box
 T;JENGKOL;gram;1;JENGKOL/gram
 T;JENGKOL BEKU;kilogram;58201;JENGKOL BEKU/kilogram
 T;JENITRI;kilogram;225619;JENITRI/kilogram
-T;JERNANG;kilogram;2249210;JERNANG/kilogram
+T;JERNANG;kilogram;30000;JERNANG/kilogram
 T;JERNANG;ton;1;JERNANG/ton
 T;JINTAN;kilogram;320635;JINTAN/kilogram
 T;JINTAN;kemasan;15000;JINTAN/kemasan
@@ -2734,7 +2734,7 @@ T;KAKAO PASTA;kilogram;957649;KAKAO PASTA/kilogram
 T;KAKAO PASTA;gram;1;KAKAO PASTA/gram
 T;KAKAO PASTA;ton;1;KAKAO PASTA/ton
 T;Kakao Residu;kilogram;91598;Kakao Residu/kilogram
-T;KAKAO SHELL;kilogram;4707005;KAKAO SHELL/kilogram
+T;KAKAO SHELL;kilogram;50000;KAKAO SHELL/kilogram
 T;KAKAO SHELL;bag;1;KAKAO SHELL/bag
 T;KAKAO SHELL;ton;1;KAKAO SHELL/ton
 T;KALE STEM;kilogram;524;KALE STEM/kilogram
@@ -2786,7 +2786,7 @@ T;KAYU AKASIA;kilogram;28578;KAYU AKASIA/kilogram
 T;KAYU AKASIA;carton;1;KAYU AKASIA/carton
 T;KAYU AKASIA;gram;1;KAYU AKASIA/gram
 T;KAYU AKASIA;ton;1;KAYU AKASIA/ton
-T;KAYU ALBASIA;meter kubik;42377499;KAYU ALBASIA/meter kubik
+T;KAYU ALBASIA;meter kubik;3000000;KAYU ALBASIA/meter kubik
 T;KAYU ALBASIA;meter persegi;7651957;KAYU ALBASIA/meter persegi
 T;KAYU ALBASIA;buah/butir/batang;2621927;KAYU ALBASIA/buah/butir/batang
 T;KAYU ALBASIA;kilogram;10000;KAYU ALBASIA/kilogram
@@ -2826,7 +2826,7 @@ T;KAYU BIRCH;buah/butir/batang;1;KAYU BIRCH/buah/butir/batang
 T;KAYU BIRCH;carton;1;KAYU BIRCH/carton
 T;KAYU BIRCH;ton;1;KAYU BIRCH/ton
 T;KAYU BIRCH;kilogram;1;KAYU BIRCH/kilogram
-T;KAYU CEDAR;meter kubik;72867648;KAYU CEDAR/meter kubik
+T;KAYU CEDAR;meter kubik;10000000;KAYU CEDAR/meter kubik
 T;KAYU CEDAR;kilogram;11194;KAYU CEDAR/kilogram
 T;KAYU CEDAR;ton;1;KAYU CEDAR/ton
 T;KAYU CHERRY;meter kubik;1;KAYU CHERRY/meter kubik
@@ -2875,18 +2875,18 @@ T;KAYU KARET;kilogram;18079;KAYU KARET/kilogram
 T;KAYU KARET;kemasan;1;KAYU KARET/kemasan
 T;KAYU KARET;meter persegi;1;KAYU KARET/meter persegi
 T;KAYU KARET;ton;1;KAYU KARET/ton
-T;Kayu Karet Olahan;meter kubik;2600000;Kayu Karet Olahan/meter kubik
+T;Kayu Karet Olahan;meter kubik;999000;Kayu Karet Olahan/meter kubik
 T;Kayu Karet Olahan;kilogram;13100;Kayu Karet Olahan/kilogram
 T;Kayu Karet Olahan;buah/butir/batang;1;Kayu Karet Olahan/buah/butir/batang
 T;Kayu Karet Olahan;ton;1;Kayu Karet Olahan/ton
 T;KAYU KEMPAS;meter kubik;6856208;KAYU KEMPAS/meter kubik
 T;KAYU KOPI;meter kubik;11996352;KAYU KOPI/meter kubik
 T;KAYU KOPI;kilogram;127689;KAYU KOPI/kilogram
-T;KAYU KRUING;meter kubik;19051958;KAYU KRUING/meter kubik
+T;KAYU KRUING;meter kubik;3000000;KAYU KRUING/meter kubik
 T;KAYU KRUING;kilogram;1654;KAYU KRUING/kilogram
 T;KAYU KUNING;box;50000;KAYU KUNING/box
 T;KAYU KUNING;carton;1;KAYU KUNING/carton
-T;KAYU LAPIS;kilogram;527269;KAYU LAPIS/kilogram
+T;KAYU LAPIS;kilogram;70000;KAYU LAPIS/kilogram
 T;KAYU LAPIS;meter kubik;100000;KAYU LAPIS/meter kubik
 T;KAYU LAPIS;kemasan;6250;KAYU LAPIS/kemasan
 T;KAYU LAPIS;cubic centimetre;370;KAYU LAPIS/cubic centimetre
@@ -2909,7 +2909,7 @@ T;KAYU MERANTI;meter kubik;11910947;KAYU MERANTI/meter kubik
 T;KAYU MERANTI;kilogram;437907;KAYU MERANTI/kilogram
 T;KAYU MERANTI;gram;1;KAYU MERANTI/gram
 T;KAYU MERANTI;ton;1;KAYU MERANTI/ton
-T;KAYU MERBAU;meter kubik;48087738;KAYU MERBAU/meter kubik
+T;KAYU MERBAU;meter kubik;5500000;KAYU MERBAU/meter kubik
 T;KAYU MERBAU;kilogram;4664496;KAYU MERBAU/kilogram
 T;KAYU MERBAU;buah/butir/batang;95833;KAYU MERBAU/buah/butir/batang
 T;KAYU MERBAU;ton;1;KAYU MERBAU/ton
@@ -2922,24 +2922,24 @@ T;KAYU OAK MERAH;bundle;1;KAYU OAK MERAH/bundle
 T;KAYU OAK MERAH;cubic centimetre;1;KAYU OAK MERAH/cubic centimetre
 T;KAYU OAK MERAH;ton;1;KAYU OAK MERAH/ton
 T;KAYU OAK MERAH;kilogram;1;KAYU OAK MERAH/kilogram
-T;KAYU OAK PUTIH;meter kubik;14489836;KAYU OAK PUTIH/meter kubik
+T;KAYU OAK PUTIH;meter kubik;999999;KAYU OAK PUTIH/meter kubik
 T;KAYU OAK PUTIH;kilogram;2;KAYU OAK PUTIH/kilogram
 T;KAYU OAK PUTIH;buah/butir/batang;1;KAYU OAK PUTIH/buah/butir/batang
 T;KAYU OAK PUTIH;bundle;1;KAYU OAK PUTIH/bundle
 T;KAYU OAK PUTIH;kemasan;1;KAYU OAK PUTIH/kemasan
 T;KAYU OAK PUTIH;ton;1;KAYU OAK PUTIH/ton
-T;KAYU OLAHAN;meter kubik;2500000;KAYU OLAHAN/meter kubik
+T;KAYU OLAHAN;meter kubik;1100000;KAYU OLAHAN/meter kubik
 T;KAYU OLAHAN;buah/butir/batang;466667;KAYU OLAHAN/buah/butir/batang
-T;KAYU OLAHAN;kilogram;407885;KAYU OLAHAN/kilogram
+T;KAYU OLAHAN;kilogram;100000;KAYU OLAHAN/kilogram
 T;KAYU OLAHAN;meter persegi;200000;KAYU OLAHAN/meter persegi
 T;KAYU OLAHAN;box;50000;KAYU OLAHAN/box
 T;KAYU OLAHAN;bag;1;KAYU OLAHAN/bag
 T;KAYU OLAHAN;carton;1;KAYU OLAHAN/carton
 T;KAYU OLAHAN;dozen;1;KAYU OLAHAN/dozen
 T;KAYU OLAHAN;kemasan;1;KAYU OLAHAN/kemasan
-T;KAYU OLAHAN;kilogram;1;KAYU OLAHAN/kilogram
-T;KAYU OLAHAN;kilogram;1;KAYU OLAHAN/kilogram
-T;KAYU OLAHAN;kilogram;1;KAYU OLAHAN/kilogram
+T;KAYU OLAHAN;kilogram;100000;KAYU OLAHAN/kilogram
+T;KAYU OLAHAN;kilogram;100000;KAYU OLAHAN/kilogram
+T;KAYU OLAHAN;kilogram;100000;KAYU OLAHAN/kilogram
 T;KAYU OLAHAN;lembar;1;KAYU OLAHAN/lembar
 T;KAYU OLAHAN;net ton;1;KAYU OLAHAN/net ton
 T;KAYU OLAHAN;pallet/unit load;1;KAYU OLAHAN/pallet/unit load
@@ -2998,7 +2998,7 @@ T;KAYU SAPELLI;bundle;1;KAYU SAPELLI/bundle
 T;KAYU SAPELLI;meter kubik;1;KAYU SAPELLI/meter kubik
 T;KAYU SAPELLI;ton;1;KAYU SAPELLI/ton
 T;KAYU SAWO;kilogram;87400;KAYU SAWO/kilogram
-T;KAYU SENGON;meter kubik;8843165;KAYU SENGON/meter kubik
+T;KAYU SENGON;meter kubik;943165;KAYU SENGON/meter kubik
 T;KAYU SENGON;buah/butir/batang;7803350;KAYU SENGON/buah/butir/batang
 T;KAYU SENGON;kilogram;414591;KAYU SENGON/kilogram
 T;KAYU SENGON;gram;1;KAYU SENGON/gram
@@ -3017,7 +3017,7 @@ T;KAYU TREMBESI;meter kubik;12662439;KAYU TREMBESI/meter kubik
 T;KAYU TREMBESI;kilogram;150000;KAYU TREMBESI/kilogram
 T;KAYU TREMBESI;buah/butir/batang;72500;KAYU TREMBESI/buah/butir/batang
 T;KAYU ULIN;meter kubik;11199753;KAYU ULIN/meter kubik
-T;KAYU VENEER;meter kubik;39946873;KAYU VENEER/meter kubik
+T;KAYU VENEER;meter kubik;3900900;KAYU VENEER/meter kubik
 T;KAYU VENEER;kilogram;32608103;KAYU VENEER/kilogram
 T;KAYU WALNUT;meter kubik;1511;KAYU WALNUT/meter kubik
 T;KAYU WALNUT;ton;1;KAYU WALNUT/ton
@@ -3068,7 +3068,7 @@ T;KELOR;box;29140;KELOR/box
 T;KELOR;kemasan;17;KELOR/kemasan
 T;KELOR;gram;1;KELOR/gram
 T;KEMENYAN;kilogram;212509;KEMENYAN/kilogram
-T;KEMIRI;kilogram;2424159;KEMIRI/kilogram
+T;KEMIRI;kilogram;8000;KEMIRI/kilogram
 T;KEMIRI;carton;448203;KEMIRI/carton
 T;KEMIRI;kemasan;155840;KEMIRI/kemasan
 T;KEMIRI;gram;1;KEMIRI/gram
@@ -3119,16 +3119,16 @@ T;KOLANG-KALING;kilogram;10000;KOLANG-KALING/kilogram
 T;KOPI BIJI;bag;3014182;KOPI BIJI/bag
 T;KOPI BIJI;box;1363207;KOPI BIJI/box
 T;KOPI BIJI;kemasan;297324;KOPI BIJI/kemasan
-T;KOPI BIJI;kilogram;80000;KOPI BIJI/kilogram
+T;KOPI BIJI;kilogram;40000;KOPI BIJI/kilogram
 T;KOPI BIJI;buah/butir/batang;1;KOPI BIJI/buah/butir/batang
 T;KOPI BIJI;carton;1;KOPI BIJI/carton
 T;KOPI BIJI;case;1;KOPI BIJI/case
 T;KOPI BIJI;each;1;KOPI BIJI/each
 T;KOPI BIJI;gram;1;KOPI BIJI/gram
-T;KOPI BIJI;kilogram;1;KOPI BIJI/kilogram
+T;KOPI BIJI;kilogram;40000;KOPI BIJI/kilogram
 T;KOPI BIJI;meter kubik;1;KOPI BIJI/meter kubik
 T;KOPI BIJI;ton;1;KOPI BIJI/ton
-T;KOPI BIJI;kilogram;1;KOPI BIJI/kilogram
+T;KOPI BIJI;kilogram;40000;KOPI BIJI/kilogram
 T;KOPI BUBUK;ton;150000000;KOPI BUBUK/ton
 T;KOPI BUBUK;kilogram;100000;KOPI BUBUK/kilogram
 T;KOPI BUBUK;box;80;KOPI BUBUK/box
@@ -3138,7 +3138,7 @@ T;KOPI INSTAN;kilogram;108939;KOPI INSTAN/kilogram
 T;KOPI INSTAN;box;100000;KOPI INSTAN/box
 T;KOPI INSTAN;case;1;KOPI INSTAN/case
 T;KOPI INSTAN;gram;1;KOPI INSTAN/gram
-T;KOPRA;kilogram;1696417;KOPRA/kilogram
+T;KOPRA;kilogram;20000;KOPRA/kilogram
 T;KOPRA;bag;1;KOPRA/bag
 T;KOPRA;ton;1;KOPRA/ton
 T;KRIPTANTUS;kilogram;1;KRIPTANTUS/kilogram
@@ -3161,13 +3161,13 @@ T;KULIT KINA;kilogram;69161;KULIT KINA/kilogram
 T;KULIT KINA;gram;1;KULIT KINA/gram
 T;KUMIS KUCING;kilogram;124306;KUMIS KUCING/kilogram
 T;KUMIS KUCING;gram;1;KUMIS KUCING/gram
-T;KUNYIT;kilogram;2293898;KUNYIT/kilogram
+T;KUNYIT;kilogram;12000;KUNYIT/kilogram
 T;KUNYIT;carton;543708;KUNYIT/carton
 T;KUNYIT;bag;1;KUNYIT/bag
 T;KUNYIT;box;1;KUNYIT/box
 T;KUNYIT;gram;1;KUNYIT/gram
 T;KUNYIT;kemasan;1;KUNYIT/kemasan
-T;KUNYIT;kilogram;1;KUNYIT/kilogram
+T;KUNYIT;kilogram;12000;KUNYIT/kilogram
 T;KUPING GAJAH;kilogram;36673295;KUPING GAJAH/kilogram
 T;KUPING GAJAH;buah/butir/batang;49439;KUPING GAJAH/buah/butir/batang
 T;KUPING GAJAH;gram;1;KUPING GAJAH/gram
@@ -3178,7 +3178,7 @@ T;LABISIA TURTLE;buah/butir/batang;26420;LABISIA TURTLE/buah/butir/batang
 T;LABISIA TURTLE;kemasan;25000;LABISIA TURTLE/kemasan
 T;LABISIA TURTLE;gram;1;LABISIA TURTLE/gram
 T;LABU BEKU;kilogram;8117;LABU BEKU/kilogram
-T;LADA BIJI;kilogram;7408463;LADA BIJI/kilogram
+T;LADA BIJI;kilogram;5000;LADA BIJI/kilogram
 T;LADA BIJI;bag;3827773;LADA BIJI/bag
 T;LADA BIJI;buah/butir/batang;100000;LADA BIJI/buah/butir/batang
 T;LADA BIJI;box;16500;LADA BIJI/box
@@ -3189,12 +3189,12 @@ T;LADA BUBUK;bag;1;LADA BUBUK/bag
 T;LADA BUBUK;carton;1;LADA BUBUK/carton
 T;LADA BUBUK;gram;1;LADA BUBUK/gram
 T;LADA BUBUK;ton;1;LADA BUBUK/ton
-T;LAIN-LAIN;meter kubik;16931101;LAIN-LAIN/meter kubik
-T;LAIN-LAIN;kilogram;3466442;LAIN-LAIN/kilogram
-T;LAIN-LAIN;liter;215901;LAIN-LAIN/liter
+T;LAIN-LAIN;meter kubik;500;LAIN-LAIN/meter kubik
+T;LAIN-LAIN;kilogram;500;LAIN-LAIN/kilogram
+T;LAIN-LAIN;liter;500;LAIN-LAIN/liter
 T;LAIN-LAIN;box;201627;LAIN-LAIN/box
 T;LAIN-LAIN;vial;46667;LAIN-LAIN/vial
-T;LAIN-LAIN;buah/butir/batang;20051;LAIN-LAIN/buah/butir/batang
+T;LAIN-LAIN;buah/butir/batang;500;LAIN-LAIN/buah/butir/batang
 T;LAIN-LAIN;peti kemas;10000;LAIN-LAIN/peti kemas
 T;LAIN-LAIN;bag;1;LAIN-LAIN/bag
 T;LAIN-LAIN;carton;1;LAIN-LAIN/carton
@@ -3226,7 +3226,7 @@ T;LOBAK BEKU;buah/butir/batang;100000;LOBAK BEKU/buah/butir/batang
 T;LOBAK BEKU;kilogram;16515;LOBAK BEKU/kilogram
 T;LOBAK BUNGKIL;kilogram;1;LOBAK BUNGKIL/kilogram
 T;LOBAK CINA HIJAU;kilogram;1;LOBAK CINA HIJAU/kilogram
-T;LOBAK REBUS;kilogram;5202479;LOBAK REBUS/kilogram
+T;LOBAK REBUS;kilogram;2479;LOBAK REBUS/kilogram
 T;LOBAK REBUS;buah/butir/batang;55000;LOBAK REBUS/buah/butir/batang
 T;LOBELIA;buah/butir/batang;5997;LOBELIA/buah/butir/batang
 T;LOTUS ROOTS;carton;1;LOTUS ROOTS/carton
@@ -3365,10 +3365,10 @@ T;PAKUAN TANDUK RUSA;buah/butir/batang;106267;PAKUAN TANDUK RUSA/buah/butir/bata
 T;PAKUAN TANDUK RUSA;box;1;PAKUAN TANDUK RUSA/box
 T;PALA BIJI;meter kubik;3964000;PALA BIJI/meter kubik
 T;PALA BIJI;box;200000;PALA BIJI/box
-T;PALA BIJI;kilogram;160113;PALA BIJI/kilogram
+T;PALA BIJI;kilogram;60113;PALA BIJI/kilogram
 T;PALA BIJI;bag;16705;PALA BIJI/bag
 T;PALA BIJI;gram;1;PALA BIJI/gram
-T;PALA BIJI;kilogram;1;PALA BIJI/kilogram
+T;PALA BIJI;kilogram;60113;PALA BIJI/kilogram
 T;PALA BIJI;ton;1;PALA BIJI/ton
 T;PALA BUBUK;kilogram;92462;PALA BUBUK/kilogram
 T;PALA BUBUK;gram;1;PALA BUBUK/gram
@@ -3417,7 +3417,7 @@ T;PEAT;kilogram;1;PEAT/kilogram
 T;PECAN;meter kubik;793;PECAN/meter kubik
 T;PECAN;kilogram;716;PECAN/kilogram
 T;PEKAWAI;kilogram;7909;PEKAWAI/kilogram
-T;PERABOT ROTAN;meter kubik;19028440;PERABOT ROTAN/meter kubik
+T;PERABOT ROTAN;meter kubik;999899;PERABOT ROTAN/meter kubik
 T;PERABOT ROTAN;buah/butir/batang;1706473;PERABOT ROTAN/buah/butir/batang
 T;PERABOT ROTAN;kilogram;391319;PERABOT ROTAN/kilogram
 T;PERABOT ROTAN;kemasan;179507;PERABOT ROTAN/kemasan
@@ -3425,7 +3425,7 @@ T;PERABOT ROTAN;cubic centimetre;138;PERABOT ROTAN/cubic centimetre
 T;PERABOT ROTAN;box;1;PERABOT ROTAN/box
 T;PERABOT ROTAN;gram;1;PERABOT ROTAN/gram
 T;PERABOT ROTAN;kit;1;PERABOT ROTAN/kit
-T;PERABOTAN KAYU;meter kubik;26897839;PERABOTAN KAYU/meter kubik
+T;PERABOTAN KAYU;meter kubik;497839;PERABOTAN KAYU/meter kubik
 T;PERABOTAN KAYU;meter persegi;8675312;PERABOTAN KAYU/meter persegi
 T;PERABOTAN KAYU;buah/butir/batang;383014;PERABOTAN KAYU/buah/butir/batang
 T;PERABOTAN KAYU;kilogram;89394;PERABOTAN KAYU/kilogram
@@ -3534,7 +3534,7 @@ T;ROSELLA;kilogram;468464;ROSELLA/kilogram
 T;ROSELLA;gram;1;ROSELLA/gram
 T;ROSELLA;ton;1;ROSELLA/ton
 T;ROTALA;buah/butir/batang;5149;ROTALA/buah/butir/batang
-T;ROTAN;meter kubik;57386936;ROTAN/meter kubik
+T;ROTAN;meter kubik;5000000;ROTAN/meter kubik
 T;ROTAN;meter persegi;4183341;ROTAN/meter persegi
 T;ROTAN;kilogram;197771;ROTAN/kilogram
 T;ROTAN;buah/butir/batang;66851;ROTAN/buah/butir/batang
@@ -3551,10 +3551,10 @@ T;RUMPUT GANDUM;gram;1;RUMPUT GANDUM/gram
 T;RUMPUT GANDUM;ton;1;RUMPUT GANDUM/ton
 T;Rumput Laut;meter kubik;3193964;Rumput Laut/meter kubik
 T;Rumput Laut;box;2803956;Rumput Laut/box
-T;Rumput Laut;kilogram;682157;Rumput Laut/kilogram
+T;Rumput Laut;kilogram;70000;Rumput Laut/kilogram
 T;Rumput Laut;liter;140000;Rumput Laut/liter
 T;Rumput Laut;gram;1;Rumput Laut/gram
-T;Rumput Laut;kilogram;1;Rumput Laut/kilogram
+T;Rumput Laut;kilogram;70000;Rumput Laut/kilogram
 T;SABUT SAWIT;meter kubik;97982;SABUT SAWIT/meter kubik
 T;SABUT SAWIT;kilogram;10000;SABUT SAWIT/kilogram
 T;SABUT SAWIT;box;1;SABUT SAWIT/box
@@ -3677,11 +3677,11 @@ T;SERAT PISANG;lembar;15000;SERAT PISANG/lembar
 T;SERBUK DAUN ASITABA;kilogram;8466;SERBUK DAUN ASITABA/kilogram
 T;SERBUK DAUN CENGKEH;kilogram;60768;SERBUK DAUN CENGKEH/kilogram
 T;SERBUK KAYU;meter kubik;4708610;SERBUK KAYU/meter kubik
-T;SERBUK KAYU;kilogram;596595;SERBUK KAYU/kilogram
+T;SERBUK KAYU;kilogram;2000;SERBUK KAYU/kilogram
 T;SERBUK KAYU;buah/butir/batang;1;SERBUK KAYU/buah/butir/batang
 T;SERBUK KAYU;gram;1;SERBUK KAYU/gram
 T;SERBUK KAYU;kemasan;1;SERBUK KAYU/kemasan
-T;SERBUK KAYU;kilogram;1;SERBUK KAYU/kilogram
+T;SERBUK KAYU;kilogram;2000;SERBUK KAYU/kilogram
 T;SERBUK KAYU;ton;1;SERBUK KAYU/ton
 T;SEREH WANGI;liter;10000000;SEREH WANGI/liter
 T;SEREH WANGI;buah/butir/batang;77329;SEREH WANGI/buah/butir/batang
@@ -3725,7 +3725,7 @@ T;TALAS;gram;1;TALAS/gram
 T;Talas Beneng;kilogram;174500;Talas Beneng/kilogram
 T;Talas Beneng;gram;1;Talas Beneng/gram
 T;TANAMAN AQUARIUM;kilogram;32314;TANAMAN AQUARIUM/kilogram
-T;TANAMAN AQUARIUM;buah/butir/batang;24521;TANAMAN AQUARIUM/buah/butir/batang
+T;TANAMAN AQUARIUM;buah/butir/batang;10000;TANAMAN AQUARIUM/buah/butir/batang
 T;TANAMAN AQUARIUM;kemasan;15250;TANAMAN AQUARIUM/kemasan
 T;Tanaman Ekor Naga;box;100000;Tanaman Ekor Naga/box
 T;Tanaman Ekor Naga;buah/butir/batang;39973;Tanaman Ekor Naga/buah/butir/batang
@@ -3778,7 +3778,7 @@ T;TEMBAKAU DAUN;milligram;1;TEMBAKAU DAUN/milligram
 T;TEMBAKAU DAUN;ton;1;TEMBAKAU DAUN/ton
 T;TEMBAKAU KERING;meter kubik;63745020;TEMBAKAU KERING/meter kubik
 T;TEMBAKAU KERING;box;3830643;TEMBAKAU KERING/box
-T;TEMBAKAU KERING;kilogram;873911;TEMBAKAU KERING/kilogram
+T;TEMBAKAU KERING;kilogram;50000;TEMBAKAU KERING/kilogram
 T;TEMBAKAU KERING;bag;8315;TEMBAKAU KERING/bag
 T;TEMBAKAU KERING;carton;10;TEMBAKAU KERING/carton
 T;TEMBAKAU KERING;botol;1;TEMBAKAU KERING/botol
@@ -3786,8 +3786,8 @@ T;TEMBAKAU KERING;buah/butir/batang;1;TEMBAKAU KERING/buah/butir/batang
 T;TEMBAKAU KERING;case;1;TEMBAKAU KERING/case
 T;TEMBAKAU KERING;gram;1;TEMBAKAU KERING/gram
 T;TEMBAKAU KERING;kemasan;1;TEMBAKAU KERING/kemasan
-T;TEMBAKAU KERING;kilogram;1;TEMBAKAU KERING/kilogram
-T;TEMBAKAU KERING;kilogram;1;TEMBAKAU KERING/kilogram
+T;TEMBAKAU KERING;kilogram;50000;TEMBAKAU KERING/kilogram
+T;TEMBAKAU KERING;kilogram;50000;TEMBAKAU KERING/kilogram
 T;TEMBAKAU KERING;liter;1;TEMBAKAU KERING/liter
 T;TEMBAKAU KERING;stick, cigarette;1;TEMBAKAU KERING/stick, cigarette
 T;TEMBAKAU KERING;ton;1;TEMBAKAU KERING/ton
@@ -3853,7 +3853,7 @@ T;TEPUNG TERIGU;kilogram;26926;TEPUNG TERIGU/kilogram
 T;TEPUNG TERIGU;bag;1;TEPUNG TERIGU/bag
 T;TEPUNG TERIGU;mat;1;TEPUNG TERIGU/mat
 T;TEPUNG TERIGU;ton;1;TEPUNG TERIGU/ton
-T;TEPUNG UBI JALAR;kilogram;18991;TEPUNG UBI JALAR/kilogram
+T;TEPUNG UBI JALAR;kilogram;50000;TEPUNG UBI JALAR/kilogram
 T;TERUNG BEKU;kilogram;31614;TERUNG BEKU/kilogram
 T;TETES TEBU;liter;40188;TETES TEBU/liter
 T;TETES TEBU;botol;26208;TETES TEBU/botol
@@ -3873,10 +3873,10 @@ T;TORTA;kilogram;1;TORTA/kilogram
 T;TRICHOMANES JAVANICUM;buah/butir/batang;44290;TRICHOMANES JAVANICUM/buah/butir/batang
 T;UBI BANGGAI;buah/butir/batang;18866;UBI BANGGAI/buah/butir/batang
 T;UBI BANGGAI;kilogram;1;UBI BANGGAI/kilogram
-T;UBI JALAR;kilogram;1386358;UBI JALAR/kilogram
+T;UBI JALAR;kilogram;50000;UBI JALAR/kilogram
 T;UBI JALAR;meter kubik;3000;UBI JALAR/meter kubik
 T;UBI JALAR;buah/butir/batang;12;UBI JALAR/buah/butir/batang
-T;UBI JALAR;kilogram;1;UBI JALAR/kilogram
+T;UBI JALAR;kilogram;50000;UBI JALAR/kilogram
 T;UBI JALAR;ton;1;UBI JALAR/ton
 T;UBI JALAR REBUS;kilogram;48320;UBI JALAR REBUS/kilogram
 T;UBI KAYU;carton;458131;UBI KAYU/carton
