@@ -2730,7 +2730,7 @@ T;KAKAO CAIR;kilogram;316306;KAKAO CAIR/kilogram
 T;Kakao Cake;kilogram;250563;Kakao Cake/kilogram
 T;Kakao Cake;gram;1;Kakao Cake/gram
 T;Kakao Cake;ton;1;Kakao Cake/ton
-T;KAKAO PASTA;kilogram;957649;KAKAO PASTA/kilogram
+T;KAKAO PASTA;kilogram;2000;KAKAO PASTA/kilogram
 T;KAKAO PASTA;gram;1;KAKAO PASTA/gram
 T;KAKAO PASTA;ton;1;KAKAO PASTA/ton
 T;Kakao Residu;kilogram;91598;Kakao Residu/kilogram
@@ -3000,12 +3000,12 @@ T;KAYU SAPELLI;ton;1;KAYU SAPELLI/ton
 T;KAYU SAWO;kilogram;87400;KAYU SAWO/kilogram
 T;KAYU SENGON;meter kubik;943165;KAYU SENGON/meter kubik
 T;KAYU SENGON;buah/butir/batang;7803350;KAYU SENGON/buah/butir/batang
-T;KAYU SENGON;kilogram;414591;KAYU SENGON/kilogram
+T;KAYU SENGON;kilogram;99;KAYU SENGON/kilogram
 T;KAYU SENGON;gram;1;KAYU SENGON/gram
 T;KAYU SENGON;ton;1;KAYU SENGON/ton
-T;KAYU SERPIHAN;kilogram;149500;KAYU SERPIHAN/kilogram
+T;KAYU SERPIHAN;kilogram;9500;KAYU SERPIHAN/kilogram
 T;KAYU SERPIHAN;gram;1;KAYU SERPIHAN/gram
-T;KAYU SERPIHAN;kilogram;1;KAYU SERPIHAN/kilogram
+T;KAYU SERPIHAN;kilogram;9500;KAYU SERPIHAN/kilogram
 T;KAYU SERPIHAN;ton;1;KAYU SERPIHAN/ton
 T;KAYU SHINA;meter kubik;7689547;KAYU SHINA/meter kubik
 T;Kayu Sonokeling;meter kubik;12775319;Kayu Sonokeling/meter kubik
@@ -3391,7 +3391,7 @@ T;PALM KERNEL EXPELLER;ton;1;PALM KERNEL EXPELLER/ton
 T;PALM KERNEL MEAL;buah/butir/batang;75000;PALM KERNEL MEAL/buah/butir/batang
 T;PALM KERNEL MEAL;kilogram;713;PALM KERNEL MEAL/kilogram
 T;PALM KERNEL MEAL;ton;1;PALM KERNEL MEAL/ton
-T;PALM KERNEL OIL;kilogram;40981;PALM KERNEL OIL/kilogram
+T;PALM KERNEL OIL;kilogram;12000;PALM KERNEL OIL/kilogram
 T;PALM KERNEL OIL;ton;1;PALM KERNEL OIL/ton
 T;PALM KERNEL OLEIN;kilogram;14271;PALM KERNEL OLEIN/kilogram
 T;PALM KERNEL OLEIN;ton;1;PALM KERNEL OLEIN/ton
@@ -3510,7 +3510,7 @@ T;RAMBAI;buah/butir/batang;2116;RAMBAI/buah/butir/batang
 T;RAMI;meter kubik;1919326;RAMI/meter kubik
 T;RAMI;kilogram;1;RAMI/kilogram
 T;RAPE SEED MEAL;kilogram;1;RAPE SEED MEAL/kilogram
-T;RBD PALM OLEIN;kilogram;14866;RBD PALM OLEIN/kilogram
+T;RBD PALM OLEIN;kilogram;5000;RBD PALM OLEIN/kilogram
 T;RBD PALM OLEIN;ton;1;RBD PALM OLEIN/ton
 T;RBD PALM STEARIN;kilogram;31553;RBD PALM STEARIN/kilogram
 T;RBD PALM STEARIN;ton;1;RBD PALM STEARIN/ton
@@ -3588,7 +3588,7 @@ T;SARANG SEMUT;gram;1;SARANG SEMUT/gram
 T;SARANG SEMUT;ton;1;SARANG SEMUT/ton
 T;SARRACENIA;buah/butir/batang;1;SARRACENIA/buah/butir/batang
 T;Sawit (Cangkang);ton;200000000;Sawit (Cangkang)/ton
-T;Sawit (Cangkang);kilogram;2000000;Sawit (Cangkang)/kilogram
+T;Sawit (Cangkang);kilogram;50000;Sawit (Cangkang)/kilogram
 T;Sawit (Cangkang);box;1;Sawit (Cangkang)/box
 T;SAYUR ASEM;kilogram;25067;SAYUR ASEM/kilogram
 T;SAYUR KATUK;kilogram;3786;SAYUR KATUK/kilogram
