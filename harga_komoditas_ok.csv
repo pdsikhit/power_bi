@@ -1355,7 +1355,7 @@ T;BENIH KANGKUNG;gram;1;BENIH KANGKUNG/gram
 T;BENIH KAPRI;kilogram;1;BENIH KAPRI/kilogram
 T;BENIH KARET;kilogram;50000;BENIH KARET/kilogram
 T;BENIH KARET;buah/butir/batang;140;BENIH KARET/buah/butir/batang
-T;BENIH KAYU AFRIKA;meter kubik;81809314;BENIH KAYU AFRIKA/meter kubik
+T;BENIH KAYU AFRIKA;meter kubik;300000;BENIH KAYU AFRIKA/meter kubik
 T;BENIH KEDELAI;ton;1;BENIH KEDELAI/ton
 T;BENIH KELAPA SAWIT;ton;85000000;BENIH KELAPA SAWIT/ton
 T;BENIH KELAPA SAWIT;kilogram;85000;BENIH KELAPA SAWIT/kilogram
@@ -2518,7 +2518,7 @@ T;GOOSEBERRY;buah/butir/batang;10000;GOOSEBERRY/buah/butir/batang
 T;GREEN MYRIOPHYLLUM;buah/butir/batang;22112;GREEN MYRIOPHYLLUM/buah/butir/batang
 T;GUANO PHOSPHATE;kilogram;48803;GUANO PHOSPHATE/kilogram
 T;GUARANA SEEDS;gram;1;GUARANA SEEDS/gram
-T;Gula Kelapa;meter kubik;28555845;Gula Kelapa/meter kubik
+T;Gula Kelapa;meter kubik;20000;Gula Kelapa/meter kubik
 T;Gula Kelapa;kilogram;257568;Gula Kelapa/kilogram
 T;Gula Kelapa;gram;1;Gula Kelapa/gram
 T;GULA MERAH;box;400000;GULA MERAH/box
@@ -2808,7 +2808,7 @@ T;KAYU BALAU;meter kubik;12744953;KAYU BALAU/meter kubik
 T;KAYU BALAU;kilogram;14270;KAYU BALAU/kilogram
 T;KAYU BALSA;kilogram;210933;KAYU BALSA/kilogram
 T;KAYU BALSA;meter kubik;100000;KAYU BALSA/meter kubik
-T;KAYU BANGKIRAI;meter kubik;8342886;KAYU BANGKIRAI/meter kubik
+T;KAYU BANGKIRAI;meter kubik;1500000;KAYU BANGKIRAI/meter kubik
 T;KAYU BANGKIRAI;kilogram;2163506;KAYU BANGKIRAI/kilogram
 T;KAYU BANGKIRAI;gram;1;KAYU BANGKIRAI/gram
 T;KAYU BASS;meter kubik;3869;KAYU BASS/meter kubik
@@ -2821,7 +2821,7 @@ T;KAYU BEECH;meter persegi;1;KAYU BEECH/meter persegi
 T;KAYU BEECH;set;1;KAYU BEECH/set
 T;KAYU BEECH;ton;1;KAYU BEECH/ton
 T;KAYU BEECH;kilogram;1;KAYU BEECH/kilogram
-T;KAYU BIRCH;meter kubik;4070130;KAYU BIRCH/meter kubik
+T;KAYU BIRCH;meter kubik;300000;KAYU BIRCH/meter kubik
 T;KAYU BIRCH;buah/butir/batang;1;KAYU BIRCH/buah/butir/batang
 T;KAYU BIRCH;carton;1;KAYU BIRCH/carton
 T;KAYU BIRCH;ton;1;KAYU BIRCH/ton
@@ -2869,7 +2869,7 @@ T;KAYU JATOBA;ton;1;KAYU JATOBA/ton
 T;KAYU JEMPINIS;meter kubik;10324286;KAYU JEMPINIS/meter kubik
 T;KAYU JEMPINIS;buah/butir/batang;1500;KAYU JEMPINIS/buah/butir/batang
 T;KAYU KAMPER;meter kubik;2487333;KAYU KAMPER/meter kubik
-T;KAYU KARET;meter kubik;600000;KAYU KARET/meter kubik
+T;KAYU KARET;meter kubik;300000;KAYU KARET/meter kubik
 T;KAYU KARET;buah/butir/batang;100000;KAYU KARET/buah/butir/batang
 T;KAYU KARET;kilogram;18079;KAYU KARET/kilogram
 T;KAYU KARET;kemasan;1;KAYU KARET/kemasan
@@ -2905,7 +2905,7 @@ T;KAYU MAPLE;buah/butir/batang;1;KAYU MAPLE/buah/butir/batang
 T;KAYU MAPLE;bundle;1;KAYU MAPLE/bundle
 T;KAYU MAPLE;ton;1;KAYU MAPLE/ton
 T;KAYU MAPLE;kilogram;1;KAYU MAPLE/kilogram
-T;KAYU MERANTI;meter kubik;11910947;KAYU MERANTI/meter kubik
+T;KAYU MERANTI;meter kubik;2000000;KAYU MERANTI/meter kubik
 T;KAYU MERANTI;kilogram;437907;KAYU MERANTI/kilogram
 T;KAYU MERANTI;gram;1;KAYU MERANTI/gram
 T;KAYU MERANTI;ton;1;KAYU MERANTI/ton
@@ -2913,7 +2913,7 @@ T;KAYU MERBAU;meter kubik;5500000;KAYU MERBAU/meter kubik
 T;KAYU MERBAU;kilogram;4664496;KAYU MERBAU/kilogram
 T;KAYU MERBAU;buah/butir/batang;95833;KAYU MERBAU/buah/butir/batang
 T;KAYU MERBAU;ton;1;KAYU MERBAU/ton
-T;KAYU NANGKA;meter kubik;78121000;KAYU NANGKA/meter kubik
+T;KAYU NANGKA;meter kubik;40000;KAYU NANGKA/meter kubik
 T;KAYU NYATOH;meter kubik;34818942;KAYU NYATOH/meter kubik
 T;KAYU OAK MERAH;meter kubik;13473726;KAYU OAK MERAH/meter kubik
 T;KAYU OAK MERAH;box;1;KAYU OAK MERAH/box
@@ -3008,7 +3008,7 @@ T;KAYU SERPIHAN;gram;1;KAYU SERPIHAN/gram
 T;KAYU SERPIHAN;kilogram;9500;KAYU SERPIHAN/kilogram
 T;KAYU SERPIHAN;ton;1;KAYU SERPIHAN/ton
 T;KAYU SHINA;meter kubik;7689547;KAYU SHINA/meter kubik
-T;Kayu Sonokeling;meter kubik;12775319;Kayu Sonokeling/meter kubik
+T;Kayu Sonokeling;meter kubik;1500000;Kayu Sonokeling/meter kubik
 T;Kayu Sonokeling;kilogram;12645555;Kayu Sonokeling/kilogram
 T;KAYU SPRUCE;meter kubik;8627010;KAYU SPRUCE/meter kubik
 T;KAYU SPRUCE;ton;1;KAYU SPRUCE/ton
@@ -3168,7 +3168,7 @@ T;KUNYIT;box;1;KUNYIT/box
 T;KUNYIT;gram;1;KUNYIT/gram
 T;KUNYIT;kemasan;1;KUNYIT/kemasan
 T;KUNYIT;kilogram;12000;KUNYIT/kilogram
-T;KUPING GAJAH;kilogram;36673295;KUPING GAJAH/kilogram
+T;KUPING GAJAH;kilogram;50000;KUPING GAJAH/kilogram
 T;KUPING GAJAH;buah/butir/batang;49439;KUPING GAJAH/buah/butir/batang
 T;KUPING GAJAH;gram;1;KUPING GAJAH/gram
 T;KWACI;kilogram;258500;KWACI/kilogram
@@ -3860,7 +3860,7 @@ T;TETES TEBU;botol;26208;TETES TEBU/botol
 T;TETES TEBU;kilogram;4478;TETES TEBU/kilogram
 T;TETES TEBU;gram;1;TETES TEBU/gram
 T;TETES TEBU;ton;1;TETES TEBU/ton
-T;THYMUS;kilogram;90592788;THYMUS/kilogram
+T;THYMUS;kilogram;30000;THYMUS/kilogram
 T;THYMUS;bag;1;THYMUS/bag
 T;THYMUS;kemasan;1;THYMUS/kemasan
 T;THYMUS;ton;1;THYMUS/ton
