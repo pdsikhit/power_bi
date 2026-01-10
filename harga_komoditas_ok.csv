@@ -269,7 +269,7 @@ pakan hewan kesayangan/each;H;Pakan Hewan Kesayangan;each;1
 pakan hewan kesayangan/kilogram;H;Pakan Hewan Kesayangan;kilogram;1
 pakan hewan kesayangan/meter kubik;H;Pakan Hewan Kesayangan;meter kubik;1
 pakan hewan kesayangan/pound (avoirdupois) per minute degree fahrenheit;H;Pakan Hewan Kesayangan;pound (avoirdupois) per minute degree Fahrenheit;1
-pakan hewan kesayangan/tank; cylindrical;H;Pakan Hewan Kesayangan;tank, cylindrical
+pakan hewan kesayangan/tank, cylindrical;H;Pakan Hewan Kesayangan;tank, cylindrical;1
 pakan hewan kesayangan/bag;H;Pakan Hewan Kesayangan;bag;1
 pakan hewan kesayangan/box;H;Pakan Hewan Kesayangan;box;1
 pakan hewan kesayangan/carton;H;Pakan Hewan Kesayangan;carton;1
@@ -2273,8 +2273,8 @@ buah apel/buah/butir/batang;T;BUAH APEL;kilogram;50000
 buah apel/bag;T;BUAH APEL;kilogram per second;1
 buah apel/kilogram;T;BUAH APEL;ton;1
 buah apricot/kilogram;T;BUAH APRICOT;kilogram;65000
-buah ara; buah tin/figs kering atau kering dan manisan/kilogram;T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;buah/butir/batang
-buah ara; buah tin/figs kering atau kering dan manisan/buah/butir/batang;T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;kilogram
+buah ara, buah tin/figs kering atau kering dan manisan/kilogram;T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;buah/butir/batang;75170
+buah ara, buah tin/figs kering atau kering dan manisan/buah/butir/batang;T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;kilogram;75170
 buah asam/carton;T;BUAH ASAM;bag;121000
 buah asam/bag;T;BUAH ASAM;carton;1
 buah asam/kilogram;T;BUAH ASAM;kilogram;42658
@@ -3156,7 +3156,7 @@ kacang karob/gram;T;KACANG KAROB;kilogram;1
 kacang kedelai/kilogram;T;KACANG KEDELAI;bag;15000
 kacang kedelai/bag;T;KACANG KEDELAI;kilogram;1
 kacang kedelai/pound;T;KACANG KEDELAI;pound;1
-kacang kedelai/tank; rectangular;T;KACANG KEDELAI;tank, rectangular
+kacang kedelai/tank, rectangular;T;KACANG KEDELAI;tank, rectangular;1
 kacang kedelai/ton;T;KACANG KEDELAI;ton;15000000
 kacang kuning/ton;T;KACANG KUNING;kilogram;20000000
 kacang kuning/kilogram;T;KACANG KUNING;ton;20000
@@ -3495,7 +3495,7 @@ kayu trembesi/meter kubik;T;KAYU TREMBESI;kilogram;7000000
 kayu trembesi/buah/butir/batang;T;KAYU TREMBESI;meter kubik;700000
 kayu ulin/meter kubik;T;KAYU ULIN;meter kubik;20000000
 kayu veneer/kilogram;T;KAYU VENEER;kilogram;25000
-kayu veneer/meter kubik;T;KAYU VENEER;meter kubik;20000000
+kayu veneer/meter kubik;T;KAYU VENEER;meter kubik;200000
 kayu walnut/meter kubik;T;KAYU WALNUT;meter kubik;18000000
 kayu walnut/ton;T;KAYU WALNUT;ton;18000000
 kayu waru/kilogram;T;KAYU WARU;kilogram;5000
@@ -4269,7 +4269,7 @@ tembakau kering/kemasan;T;TEMBAKAU KERING;kilogram of phosphorus pentoxide (phos
 tembakau kering/kilogram;T;TEMBAKAU KERING;kilogram per second;200000
 tembakau kering/kilogram;T;TEMBAKAU KERING;liter;200000
 tembakau kering/liter;T;TEMBAKAU KERING;meter kubik;100000
-tembakau kering/stick; cigarette;T;TEMBAKAU KERING;stick, cigarette
+tembakau kering/stick, cigarette;T;TEMBAKAU KERING;stick, cigarette;3000
 tembakau kering/ton;T;TEMBAKAU KERING;ton;200000000
 temu kunci beku/kilogram;T;TEMU KUNCI BEKU;gram;30000
 temu kunci beku/gram;T;TEMU KUNCI BEKU;kilogram;30
